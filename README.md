@@ -2,7 +2,7 @@ log.lua
 ====
 Simple logger for simple dutties. Sometimes you may want some colorful output on what you do.
 
-![Example Output](/repository/test.png?raw=true "Example Output")
+![Example Output](https://github.com/nikneym/log.lua/blob/main/test.png)
 
 ## Setup
 Download the `log.lua` file and include it in your project like `local log = require "log" (true)`.
