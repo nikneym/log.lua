@@ -1,6 +1,6 @@
 log.lua
 ====
-Simple logger for simple dutties. Sometimes you may want some colorful output on what you do.
+Simple logger for simple duties. Sometimes you may want some colorful output on what you do.
 
 ![Example Output](https://github.com/nikneym/log.lua/blob/main/test.png)
 
